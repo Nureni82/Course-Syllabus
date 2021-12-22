@@ -4,7 +4,9 @@
   </a>
 </p>
 
-
+---
+title
+---
 
 # BIT 115: Introduction to Programming Syllabus
 
