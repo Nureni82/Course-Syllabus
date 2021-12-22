@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.cascadia.edu">
+      <img alt="Make School Logo" src="./CascadiaLogo/CascadiaCollegeLogo.jpg" height="110">
+  </a>
+</p>
+
+
 
 # BIT 115: Introduction to Programming Syllabus
 
