@@ -1,6 +1,5 @@
----
-BIT 115: (Introduction to Programming) Syllabus
----
+
+### BIT 115: (Introduction to Programming) Syllabus
 
 
 ## Course Information
