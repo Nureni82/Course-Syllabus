@@ -1,5 +1,6 @@
 
 # BIT 115: Introduction to Programming Syllabus
+  ***BIT 115/Section 0L1 - 2021/5 Credits/Summer 2021***
 
 
 ## Course Information
@@ -27,3 +28,13 @@ into MATH 095 or above.
 * **Publisher**: O’Reilly Media, Inc., 2nd Edition (2020)
 * **Language**: English
 * **ISBN**: 978-0135166307
+
+
+
+| Group           |          Weight         |     
+|:---------------:|:-----------------------:|
+|  Assignments    |        50%   | 
+|  Exercises      |        25%   | 
+|  Exams          |        20%   | 
+|  Class Participation |   5%    | 
+|  **Total**  |            100%  |
