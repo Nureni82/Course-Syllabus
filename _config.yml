@@ -21,8 +21,10 @@
 title: Course Syllabi
 email: nadeyemo@cascadia.edu
 description: # >- # this means to ignore newlines until "baseurl:"
-  This is the syllabus for the classes that I teach in Cascadia
-
+  # This is the syllabus for the classes that I teach in Cascadia.
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
 
 # Build settings
 theme: jekyll-theme-cayman
