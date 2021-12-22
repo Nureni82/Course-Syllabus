@@ -1,8 +1,6 @@
-<p>
-</p>
-
-# BIT 115: Introduction to Programming
-
+---
+BIT 115: Introduction to Programming
+---
 ## Course Information
 **Course Delievery**: In-person
 **Learning Materials**: All the learning materials, including exercises and assignments, have been arranged on a lecture basis on Canvas(cascadia.instructure.com)
