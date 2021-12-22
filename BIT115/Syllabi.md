@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.makeschool.com">
-      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
+      <img id="174764544" style="display: block; margin-left: auto; margin-right: auto;" role="presentation" src="https://cascadia.instructure.com/courses/2160618/files/184705872/preview" alt="" width="637" height="403" data-ally-user-updated-alt="Cascadia college image" data-api-endpoint="https://cascadia.instructure.com/api/v1/courses/2160618/files/184705872" data-api-returntype="File" />
   </a>
 </p>
 
