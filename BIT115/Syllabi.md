@@ -1,6 +1,6 @@
 
 # BIT 115: Introduction to Programming Syllabus
-  ***BIT 115/Section 0L1 - 2021/5 Credits/Summer 2021***
+  ***BIT 115/Section 02 /5 Credits/Winter 2022***
 
 
 ## Course Information
@@ -33,8 +33,8 @@ into MATH 095 or above.
 
 | Group           |          Weight         |     
 |:---------------:|:-----------------------:|
-|Assignments    |        50%   | 
-|Exercises      |        25%   | 
-|Exams          |        20%   | 
-|Class Participation |   5%    | 
-|**Total**  |           **100%**  |
+| Assignments         |        50%          | 
+| Exercises           |        25%          | 
+| Exams               |        20%          | 
+| Class Participation |   5%                | 
+| **Total**           |           **100%**  |
