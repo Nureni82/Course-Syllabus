@@ -1,4 +1,5 @@
-<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"><img id="174764544" style="display: block; margin-left: auto; margin-right: auto;" role="presentation" src="https://cascadia.instructure.com/courses/2160618/files/184705872/preview" alt="" width="637" height="403" data-ally-user-updated-alt="Cascadia college image" data-api-endpoint="https://cascadia.instructure.com/api/v1/courses/2160618/files/184705872" data-api-returntype="File" /> &nbsp;&nbsp;</span></p>
+<p>
+</p>
 
 # BIT 115: Introduction to Programming
 
