@@ -33,8 +33,8 @@ into MATH 095 or above.
 
 | Group           |          Weight         |     
 |:---------------:|:-----------------------:|
-|  Assignments    |        50%   | 
-|  Exercises      |        25%   | 
-|  Exams          |        20%   | 
-|  Class Participation |   5%    | 
+| :-- Assignments    |        50%   | 
+| :-- Exercises      |        25%   | 
+| :-- Exams          |        20%   | 
+| :-- Class Participation |   5%    | 
 |  **Total**  |            100%  |
