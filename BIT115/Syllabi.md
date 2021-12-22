@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://www.cascadia.edu">
-      <img src="./CascadiaLogo/CascadiaCollegeLogo.jpg" height="110">
-  </a>
-</p>
-
 ---
-title
+title: "Course Syllabus"
 ---
 
 # BIT 115: Introduction to Programming Syllabus
