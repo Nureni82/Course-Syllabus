@@ -22,7 +22,7 @@ into MATH 095 or above.
 ***Scenario***:  Shira  is  hired  to  create  a  simple  address  book  with  a  graphical  user  interface.  She designs  an  interface,  creates  algorithms  dealing  with  basic  input  and  processing  of  names, addresses and phone numbers. She presents the design to the company and then implements the program and tests that it functions properly.
 
 ## Required Textbook
-Title: Think Java: How to Think Like a Computer Scientist 
+* **Title**: Think Java: How to Think Like a Computer Scientist 
 * **Authors**: Allen B. Downey and Chris Mayfield
 * **Publisher**: O’Reilly Media, Inc., 2nd Edition (2020)
 * **Language**: English
