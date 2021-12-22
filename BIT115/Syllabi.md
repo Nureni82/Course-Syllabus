@@ -18,8 +18,8 @@ Completion of MATH 085 or MFUND 062 with a grade of 2.0 or higher or placement b
 into MATH 095 or above.
 
 ## Workplace Context
-***How will the outcomes from this class be used in the workplace?***   
-***Scenario***:  Shira  is  hired  to  create  a  simple  address  book  with  a  graphical  user  interface.  She designs  an  interface,  creates  algorithms  dealing  with  basic  input  and  processing  of  names, addresses and phone numbers. She presents the design to the company and then implements the program and tests that it functions properly.
+*How will the outcomes from this class be used in the workplace?*   
+*Scenario*:  Shira  is  hired  to  create  a  simple  address  book  with  a  graphical  user  interface.  She designs  an  interface,  creates  algorithms  dealing  with  basic  input  and  processing  of  names, addresses and phone numbers. She presents the design to the company and then implements the program and tests that it functions properly.
 
 ## Required Textbook
 * **Title**: Think Java: How to Think Like a Computer Scientist 
