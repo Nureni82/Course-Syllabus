@@ -149,9 +149,9 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 | Class |          Date          |              Class Activities & Topics                    |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Tue, Jan 4        | <p align="center">***Exercise 1**, Course Orientation and Introduction*</p>           |
-|  2 |  Thu, Jan 6        | <p align="center">***Exercise 2**, Introduction to variables and Expressions*</p>        |
-|  3 |  Tue, Jan 11       | <p align="center">***Exercise 3**, Variables and Expressions* </p>                     |
+|  1 |  Tue, Jan 4        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
+|  2 |  Thu, Jan 6        | <p align="left">***Exercise 2**, Introduction to variables and Expressions*</p>        |
+|  3 |  Tue, Jan 11       | <p align="left">***Exercise 3**, Variables and Expressions* </p>                     |
 |  4 |  Thu, Jan 13       | ***Exercise 4**, Reading User's Input*                           |
 |  5 |  Tue, Jan 18       | ***Exercise 5**, Conditionals*                                   |
 |  6 |  Thu, Jan 20       | ***Exercise 6**, Conditionals Continue*                          |
