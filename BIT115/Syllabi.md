@@ -144,8 +144,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 **Course Dates:** January 3 – March 18, 2022 
 
-**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm (18 class sessions)
-
+**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
 |  1 |  Tue, Jan 4        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
