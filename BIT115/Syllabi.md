@@ -75,27 +75,27 @@ participation also include 2 group activities. You will work in groups to comple
 
 ## Learning Outcomes
 I. **Learn Actively** - *Learning is a personal, interactive process that results in greater expertise and a more comprehensive understanding of the world.*
-    * Build basic programs in an appropriate programming language. 
-    * Take responsibility for learning, for example by engaging in learning, both individually and with others, through reading, listening, observing, and applying knowledge and skills to the creation of software programs.
-    * Participate in exercises (in-class and/or online) designed to develop an understanding of object-oriented programming.
+* Build basic programs in an appropriate programming language. 
+* Take responsibility for learning, for example by engaging in learning, both individually and with others, through reading, listening, observing, and applying knowledge and skills to the creation of software programs.
+* Participate in exercises (in-class and/or online) designed to develop an understanding of object-oriented programming.
 
 II.	**Think Critically, Creatively and Reflectively** - *Reason and imagination are fundamental to problem solving and critical examination of ideas.*
-    * Develop expertise in techniques and approaches to independently fix bugs in program source code.
-    * Develop and apply computer science knowledge in order to construct solutions to foundational programing problems.
-    * Demonstrate an intuitive understanding of each programming language construct.
-    * Construct meaning from expanding and conflicting information.
+* Develop expertise in techniques and approaches to independently fix bugs in program source code.
+* Develop and apply computer science knowledge in order to construct solutions to foundational programing problems.
+* Demonstrate an intuitive understanding of each programming language construct.
+* Construct meaning from expanding and conflicting information.
 
 III. **Communicate with Clarity and Originality** - *The ability to exchange ideas and information is essential to personal growth, productive work, and societal vitality.*
-    * Present coherent, concise, impromptu presentations on one’s approach to solving a problem, including (but not limited) to intuitive explanations of the approach and detailed technical explanations of the approach.
-    * Clearly document problem solutions.
-    * Use written, spoken, and symbolic forms to convey concepts creatively. Some examples might include computer source code, inline English comments within computer source code, English essays or blog posts, and technical documentation.
+* Present coherent, concise, impromptu presentations on one’s approach to solving a problem, including (but not limited) to intuitive explanations of the approach and detailed technical explanations of the approach.
+* Clearly document problem solutions.
+* Use written, spoken, and symbolic forms to convey concepts creatively. Some examples might include computer source code, inline English comments within computer source code, English essays or blog posts, and technical documentation.
 
 IV. **Interact in Diverse and Complex Environments** - *Successful negotiation through our increasingly complex, interdependent, and global society requires knowledge and awareness of self and others, as well as enhanced interaction skills.*
-    * Collaborate with others in complicated, dynamic, and ambiguous situations.
-    * Identify when one needs additional help and actively reach out for appropriate help when it is needed.
-    * Interact in pairs and/or small groups to develop small programs.
-    * Work with peers to develop an understanding of the material, and to successfully apply that knowledge to the creation of software programs.
-    * Respect individual ways of arriving at answers, expressing results and processes.
+* Collaborate with others in complicated, dynamic, and ambiguous situations.
+* Identify when one needs additional help and actively reach out for appropriate help when it is needed.
+* Interact in pairs and/or small groups to develop small programs.
+* Work with peers to develop an understanding of the material, and to successfully apply that knowledge to the creation of software programs.
+* Respect individual ways of arriving at answers, expressing results and processes.
 
 
 
