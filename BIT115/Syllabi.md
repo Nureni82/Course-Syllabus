@@ -147,7 +147,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 **Class Times:** Tuesday, Thursday at 3:30pm–5:35pm
 
-| Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
+| Class |          Date          |Class Activities & Topics                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
 |  1 |  Tue, Jan 4        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
 |  2 |  Thu, Jan 6        | <p align="left">***Exercise 2**, Introduction to variables and Expressions*</p>        |
