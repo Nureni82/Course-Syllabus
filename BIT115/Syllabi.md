@@ -58,6 +58,7 @@ Student grades will be determined by the student’s performance on:
    </TR>
 </TABLE>
 
+
 1. **Assignments** – There will be 4 programming assignments to test student's ability to write programs in Java each equally weighted.
 2. **Exercises** – There will be different kind of exercises to test student’s understanding of the class materials and Java programming concepts on a lecture basis. There will be about 19 to 20 exercises in total. The exercise’s types include code tracing, finding, and fixing  errors, arranging blocks of scramble code (Parson’s problems), writing, analysis, and synthesis of Java programs. 
 3. **Exams** – There will be two exams (midterm and final), each equally weighted. Exams are worth 20% of your grade.
@@ -67,4 +68,6 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-<img src="Course-Syllabus/Logos/GradingCriteria.png" alt="hi" class="inline"/>
+<p align="left">
+      <img src="./Logos/GradingCriteria.png" >
+</p>
