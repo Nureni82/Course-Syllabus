@@ -13,7 +13,7 @@
 ## Course Description
 This introductory programming class emphasizes problem solving through exploration of 
 computer programming, variable typing and assignment, basic control structures loops, 
-branches,  functions,  subprograms,  and  arrays  using  a  language  such  as  Java.  Students  also explore how human culture affects the use of computer programs.    
+branches,  functions,  subprograms,  and  arrays  using  a  language  such  as  Java.  Students  also explore how human culture affects the use of computer programs.    .
 
 ## Prerequisites:  
 Completion of MATH 085 or MFUND 062 with a grade of 2.0 or higher or placement by testing 
@@ -144,31 +144,31 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 **Course Dates:** January 3 – March 18, 2022 
 
-**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm
+**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm (18 class sessions)
 
-| Class |          Date          |Class Activities & Topics                   |
+| Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Tue, Jan 4        |***Exercise 1**, Course Orientation and Introduction*             |
-|  2 |  Thu, Jan 6        |***Exercise 2**, Introduction to variables and Expressions*       |
-|  3 |  Tue, Jan 11       |***Exercise 3**, Variables and Expressions*                       |
-|  4 |  Thu, Jan 13       |***Exercise 4**, Reading User's Input*                            |
-|  5 |  Tue, Jan 18       |***Exercise 5**, Conditionals*                                    |
-|  6 |  Thu, Jan 20       |***Exercise 6**, Conditionals Continue*                           |
-|  7 |  Tue, Jan 25       |***Exercise 7**, Logical Expressions*                             |
-|  - |  Thu, Jan 27       |**No Class - College Closed**                                     |
-|  8 |  Tue, Feb 1        |***Exercise 8**, Logical Expressions Continue*                    |
-|  9 |  Thu, Feb 3        |***Exercise 9**, Looping Statements (Iterations)*                 |
-| 10 |  Tue, Feb 8        |***Exercise 10**, Looping Statements Continue*                    |
-| 11 |  Thu, Feb 10       |***Group Exercise 1**, Midterm Exam Review & First Group Activity*|
-| 12 |  Tue, Feb 15       |**Midterm Exam**                                                  |
-| 13 |  Thu, Feb 17       |***Exercise 11**, Conditionals & Loops*                           |
-| 14 |  Tue, Feb 22       |***Exercise 12**, Methods and Parameters*                         |
-| 15 |  Thu, Feb 24       |***Exercise 13**, Methods and Parameters Continue*                |
-| 16 |  Tue, Mar 1        |***Exercise 14**, Mathods, Parameters, & Return Values*           |
-| 17 |  Thu, Mar 3        |***Exercise 15**, Introduction to Arrays*                         |
-| 18 |  Tue, Mar 8        | ***Exercise 16**, Arrays & Random Numbers*                       |
-| 19 |  Thu, Mar 10       | ***Exercise 17**, Arrays Continue*                               |
-| 20 |  Tue, Mar 15       | ***Group Exercise 2**, Final Exam Review and Group Exercise 2*   |
-| 21 |  Thu, Mar 17       |**Final Exam**                                                    |
+|  1 |  Tue, Jan 4        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
+|  2 |  Thu, Jan 6        | <p align="left">***Exercise 2**, Introduction to variables and Expressions*</p>        |
+|  3 |  Tue, Jan 11       | <p align="left">***Exercise 3**, Variables and Expressions* </p>                     |
+|  4 |  Thu, Jan 13       |<p align="left"> ***Exercise 4**, Reading User's Input* </p>                          |
+|  5 |  Tue, Jan 18       | <p align="left">***Exercise 5**, Conditionals*</p>                             |
+|  6 |  Thu, Jan 20       | <p align="left">***Exercise 6**, Conditionals Continue*</p>                          |
+|  7 |  Tue, Jan 25       | <p align="left">***Exercise 7**, Logical Expressions*</p>                      |
+|  - |  Thu, Jan 27       |<p align="left"> **No Class - College Closed**</p>                                    |
+|  8 |  Tue, Feb 1        | <p align="left">***Exercise 8**, Logical Expressions Continue*</p>                   |
+|  9 |  Thu, Feb 3        | <p align="left">***Exercise 9**, Looping Statements (Iterations)*</p>                |
+| 10 |  Tue, Feb 8        | <p align="left">***Exercise 10**, Looping Statements Continue*</p>                   |
+| 11 |  Thu, Feb 10       |<p align="left">***Group Exercise 1**, Midterm Exam Review & First Group Activity*</p> |
+| 12 |  Tue, Feb 15       | <p align="left">**Midterm Exam**</p>                                                 |
+| 13 |  Thu, Feb 17       | <p align="left">***Exercise 11**, Conditionals & Loops*</p>                          |
+| 14 |  Tue, Feb 22       | <p align="left">***Exercise 12**, Methods and Parameters*</p>                        |
+| 15 |  Thu, Feb 24       | <p align="left">***Exercise 13**, Methods and Parameters Continue*</p>              |
+| 16 |  Tue, Mar 1        |<p align="left"> ***Exercise 14**, Mathods, Parameters, & Return Values*</p>          |
+| 17 |  Thu, Mar 3        | <p align="left">***Exercise 15**, Introduction to Arrays*</p>                        |
+| 18 |  Tue, Mar 8        | <p align="left">***Exercise 16**, Arrays & Random Numbers* </p>                     |
+| 19 |  Thu, Mar 10       | <p align="left">***Exercise 17**, Arrays Continue*</p>                               |
+| 20 |  Tue, Mar 15       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Exercise 2*</p>   |
+| 21 |  Thu, Mar 17       |<p align="left">**Final Exam**</p>                                                 |
 ---
 *Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
