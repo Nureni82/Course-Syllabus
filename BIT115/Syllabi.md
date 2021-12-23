@@ -1,10 +1,8 @@
----
-image: /assets/images/GradingCriteria.PNG
----
 
 # BIT 115: Introduction to Programming Syllabus
   ***BIT 115/Section 02 /5 Credits/Winter 2022***
 
+[Please *Review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
 **Course Delievery**: In-person  
@@ -68,10 +66,12 @@ Student grades will be determined by the student’s performance on:
 4. **Class Participation** – There are 9 weekly discussion forums where students will be asked to comment or ask questions about what they read from assigned learning materials. Class 
 participation also include 2 group activities. You will work in groups to complete some programming exercises. 
 
+**Assignments** *can be resubmitted ***once*** for a regrade. Any regraded assignment can only get back 50% of the lost points*
+
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![](/assets/images/GradingCriteria.PNG)
+![](assets/images/GradingCriteria.PNG)
 
 ## Learning Outcomes
 I. **Learn Actively** - *Learning is a personal, interactive process that results in greater expertise and a more comprehensive understanding of the world.*
@@ -97,8 +97,43 @@ IV. **Interact in Diverse and Complex Environments** - *Successful negotiation t
 * Work with peers to develop an understanding of the material, and to successfully apply that knowledge to the creation of software programs.
 * Respect individual ways of arriving at answers, expressing results and processes.
 
+## Course Content, Topics, and Themes:
+* Topics and Technical Skills
+    * Write input/output instructions
+    * Understand variable assignment
+    * Write mathematical expressions in a programming language such as Java
+    * Understand and use repetition structures (for loops, while loops, etc.)
+    * Understand and use selection structures (if statements, if…else statements, selection statements, etc.)
+    * Write and utilize subprograms and functions
+    * Process arrays
+    * Design simple algorithms
+    * Explore how the culture of the end user affects development
+* Safety, Industrial Safety and Environmental Awareness
+* Analyze workstation ergonomics
 
+## Classroom Conduct
+Following these simple guidelines will help me to offer an enjoyable teaching environment for you. You are expected to join class prepared and on time. Joining late and/or unprepared is disrespectful and disruptive both to me and the other students in class. If you must join late, mute your speaker before joining the class. If you have any personal concerns, please feel free to talk to me at the end of class. The official Standards of Student Conduct policy is available in the student handbook.   
+Please remember to respect the following list for me and the students in the class.
+* Please remember to respect other students and your instructor by not using inappropriate language.
+* Please silence your mobile devices such as cell phones.
+* Do not play computer games or visit gaming websites during class times.
+* No chat or messenger programs during class times.
+* Do not use personal audio devices such as MP3 players during class times.
+* No Internet surfing, texting, or other mobile device activity that can distract you. 
 
+## Withdrawals
+If you decide to drop, it is your responsibility to turn in a withdrawal to Enrollment Services. Do not assume that you will be dropped automatically. Please see the instructional calendar on the college website.
 
+## Missed/Late Work
+**To encourage you to work regularly, late exercises, assignments, discussion posts, and group activities will automatically lose 5% per day, and up to 25% reduction in their total points.**If you miss a graded activity due to a genuine absence, you must contact the instructor during the first-class period of your return to arrange to complete the work and have it graded. Do not expect the instructor to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
 
+## Academic Honesty
+Cascadia College regards acts of academic dishonesty, including such activities as plagiarism, cheating and/or violations of integrity in information technology, as very serious offenses.  Academic honesty violations include, but are not limited to, copying homework, quiz and/or exam problems, and placing your name on a group project when you did not actively participate. If cheating, plagiarism, or other forms of academic honesty violations are discovered in student’s work, that exercise/lab/assignment will be awarded a zero grade. If the trends continue in more than three graded assignments, the student will be awarded a 0.0 as the final grade for the class.
 
+A formal complaint with detailed description of all such academic dishonesty incidents will be forwarded to the student conduct officer, where a file of such occurrences is maintained. The Student Conduct Officer may institute further action against a student according to the college’s disciplinary policies and procedures. [Click here to see the policies and procedures in the Student Handbook.](https://www.cascadia.edu/academic_resources/handbook.aspx)
+
+## Inclement Weather and Power Outages
+If you cannot come to class because of any adverse weather conditions or other related issues, you should contact me as soon as possible. Likewise, if I will not be able to come to class for any reason, I will notify you of any cancellation or change as soon as possible. If you cannot complete an exercise or assignment due to power outage or internet issues, I will postpone any scheduled tests, exercises, assignments, and other assessments to a later date.
+
+## COVID-19 Related Protocols and Pivot Plans
+As mandated by the state of Washington and the Cascadia college, students must come to class wearing face masks. If for any reason I (Instructor) become sick due to COVID infection or need to self-isolate, you (the students) will be informed, and the teaching modality will change to remote synchronous instruction (Zoom). If any student becomes sick due to COVID infection, such student must use the daily attestation email from the college to report and self-isolate immediately. It is important that the instructor is informed about any sick student (especially if it is COVID related) so that we can take necessary precautions, and to make exceptions relative to any scheduled tests or assignments.
