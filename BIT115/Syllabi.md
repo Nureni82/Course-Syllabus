@@ -71,7 +71,7 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-<img src="https://github.com/Nureni82/Course-Syllabus/blob/main/assets/images/GradingCriteria.PNG" alt="https://github.com/Nureni82/Course-Syllabus/blob/main/assets/images/GradingCriteria.PNG">
+<img src="https://github.com/Nureni82/Course-Syllabus/raw/main/assets/images/GradingCriteria.PNG">
 
 
 ## Learning Outcomes
