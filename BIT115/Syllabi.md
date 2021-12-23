@@ -164,10 +164,12 @@ As mandated by the state of Washington and the Cascadia college, students must c
 | 12 |  Tue, Feb 15       | <p align="left">**Midterm Exam**</p>                                                 |
 | 13 |  Thu, Feb 17       | <p align="left">***Exercise 11**, Conditionals & Loops*</p>                          |
 | 14 |  Tue, Feb 22       | <p align="left">***Exercise 12**, Methods and Parameters*</p>                        |
-| 15 |  Thu, Feb 24       | <p align="left">***Exercise 13]**, Methods and Parameters Continue*</p>              |
+| 15 |  Thu, Feb 24       | <p align="left">***Exercise 13**, Methods and Parameters Continue*</p>              |
 | 16 |  Tue, Mar 1        |<p align="left"> ***Exercise 14**, Mathods, Parameters, & Return Values*</p>          |
 | 17 |  Thu, Mar 3        | <p align="left">***Exercise 15**, Introduction to Arrays*</p>                        |
-| 18 |  Tue, Mar 8        | <p align="left">***Exercise 16]**, Arrays & Random Numbers* </p>                     |
-| 19 |  Thu, Mar 10       |<p align="left">**Final Exam** </p>                                                |
+| 18 |  Tue, Mar 8        | <p align="left">***Exercise 16**, Arrays & Random Numbers* </p>                     |
+| 19 |  Thu, Mar 10       | <p align="left">***Exercise 17**, Arrays Continue*</p>                               |
+| 20 |  Tue, Mar 15       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Exercise 2*</p>   |
+| 21 |  Thu, Mar 17       |<p align="left">**Final Exam**</p>                                                 |
 ---
 *Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
