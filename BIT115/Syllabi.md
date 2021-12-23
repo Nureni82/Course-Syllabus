@@ -1,4 +1,6 @@
-
+---
+image: /assets/images/GradingCriteria.png
+---
 # BIT 115: Introduction to Programming Syllabus
   ***BIT 115/Section 02 /5 Credits/Winter 2022***
 
@@ -68,5 +70,5 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![](images/GradingCriteria.png?raw=true )
+![]({{page.image | relative_url}} )
 
