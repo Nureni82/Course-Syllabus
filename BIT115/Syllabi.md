@@ -29,6 +29,33 @@ into MATH 095 or above.
 * **Language**: English
 * **ISBN**: 978-0135166307
 
+<TABLE>
+<TR>
+      <TH>Group</TH>
+      <TH>Weight</TH>
+   </TR>
+   <TR>
+      <TD>Assignments</TD>
+      <TD>50%</TD>
+   </TR>
+   <TR>
+      <TD>Exercises</TD>
+      <TD>25%</TD>
+   </TR>
+   <TR>
+      <TD>Exams</TD>
+      <TD>20%</TD>
+   </TR>
+   <TR>
+      <TD>Class Participation</TD>
+      <TD>5%</TD>
+   </TR>
+   <TR>
+      <TD><strong>Total</strong></TD>
+      <TD><strong>100%</strong></TD>
+   </TR>
+</TABLE>
+
 
 
 | Group           |          Weight         |     
