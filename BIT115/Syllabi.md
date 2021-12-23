@@ -149,7 +149,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Jan 4        | [Exercise 1] | **Course Orientation and Introduction**
+|  1 |  Tue, Jan 4        | ***Exercise 1**, Course Orientation and Introduction* |
 |  2 |  Thu, Jan 6        | [Exercise 2] | **Introduction to variables and Expressions**
 |  3 |  Tue, Jan 11       | [Exercise 3] | **Variables and Expressions**
 |  4 |  Thu, Jan 13       | [Exercise 4] | **Reading User's Input**
@@ -172,4 +172,4 @@ As mandated by the state of Washington and the Cascadia college, students must c
 | 20 |  Tue, Mar 15       | [Group Exercise 2] **Final Exam Review and Group Exercise 2**
 | 21 |  Thu, Mar 17       |**Final Exam** |
 ---
-*The students should note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
+*Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
