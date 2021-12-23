@@ -27,6 +27,7 @@ twitter_username:
 github_username:
 
 # Build settings
+markdown: GFM
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed

@@ -73,7 +73,6 @@ participation also include 2 group activities. You will work in groups to comple
 ## Grading Criteria/Standards Scales
 <img src="https://github.com/Nureni82/Course-Syllabus/raw/main/assets/images/GradingCriteria.PNG">
 
-
 ## Learning Outcomes
 I. **Learn Actively** - *Learning is a personal, interactive process that results in greater expertise and a more comprehensive understanding of the world.*
 * Build basic programs in an appropriate programming language. 
