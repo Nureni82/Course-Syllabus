@@ -71,7 +71,7 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![](/assets/images/GradingCriteria.PNG)
+![](https://github.com/Nureni82/Course-Syllabus/blob/main/assets/images/GradingCriteria.PNG)
 
 ## Learning Outcomes
 I. **Learn Actively** - *Learning is a personal, interactive process that results in greater expertise and a more comprehensive understanding of the world.*
