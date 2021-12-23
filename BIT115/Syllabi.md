@@ -1,6 +1,4 @@
----
-image: /assets/images/GradingCriteria.png
----
+
 # BIT 115: Introduction to Programming Syllabus
   ***BIT 115/Section 02 /5 Credits/Winter 2022***
 
