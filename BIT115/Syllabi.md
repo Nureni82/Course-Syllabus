@@ -2,7 +2,7 @@
 # BIT 115: Introduction to Programming Syllabus
   ***BIT 115/Section 02 /5 Credits/Winter 2022***
 
-[Please *Review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
+[Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
 **Course Delievery**: In-person  
@@ -138,3 +138,38 @@ If you cannot come to class because of any adverse weather conditions or other r
 
 ## COVID-19 Related Protocols and Pivot Plans
 As mandated by the state of Washington and the Cascadia college, students must come to class wearing face masks. If for any reason I (Instructor) become sick due to COVID infection or need to self-isolate, you (the students) will be informed, and the teaching modality will change to remote synchronous instruction (Zoom). If any student becomes sick due to COVID infection, such student must use the daily attestation email from the college to report and self-isolate immediately. It is important that the instructor is informed about any sick student (especially if it is COVID related) so that we can take necessary precautions, and to make exceptions relative to any scheduled tests or assignments.
+
+---
+
+### Course Schedule for Winter Quarter 2022
+
+**Course Dates:** January 3 – March 18, 2022 
+
+**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm (18 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tue, Jan 4        | [Exercise 1] | **Course Orientation and Introduction**
+|  2 |  Thu, Jan 6        | [Exercise 2] | **Introduction to variables and Expressions**
+|  3 |  Tue, Jan 11       | [Exercise 3] | **Variables and Expressions**
+|  4 |  Thu, Jan 13       | [Exercise 4] | **Reading User's Input**
+|  5 |  Tue, Jan 18       | [Exercise 5] | **Conditionals**
+|  6 |  Thu, Jan 20       | [Exercise 6] | **Conditionals Continue**
+|  7 |  Tue, Jan 25       | [Exercise 7] | **Logical Expressions**
+|  - |  Thu, Jan 27       | **No Class - College Closed** |
+|  8 |  Tue, Feb 1        | [Exercise 8] | **Logical Expressions Continue**
+|  9 |  Thu, Feb 3        | [Exercise 9] | **Looping Statements (Iterations)**
+| 10 |  Tue, Feb 8        | [Exercise 10] | **Looping Statements Continue**
+| 11 |  Thu, Feb 10       | [Group Exercise 1] |**Midterm Exam Review & First Group Activity**
+| 12 |  Tue, Feb 15       | **Midterm Exam**
+| 13 |  Thu, Feb 17       | [Exercise 11] | **Conditionals & Loops**
+| 14 |  Tue, Feb 22       | [Exercise 12] | **Methods and Parameters**
+| 15 |  Thu, Feb 24       | [Exercise 13] | **Methods and Parameters Continue**
+| 16 |  Tue, Mar 1        | [Exercise 14] | **Mathods, Parameters, & Return Values**
+| 17 |  Thu, Mar 3        | [Exercise 15] | **Introduction to Arrays**
+| 18 |  Tue, Mar 8        | [Exercise 16] | **Arrays & Random Numbers**
+| 19 |  Thu, Mar 10       | [Exercise 17] | **Arrays Continue**
+| 20 |  Tue, Mar 15       | [Group Exercise 2] **Final Exam Review and Group Exercise 2**
+| 21 |  Thu, Mar 17       |**Final Exam** |
+---
+*The students should note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
