@@ -149,27 +149,27 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 | Class |          Date          |              Class Activities & Topics                    |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Tue, Jan 4        | ***Exercise 1**, Course Orientation and Introduction* |
-|  2 |  Thu, Jan 6        | ***Exercise 2**, Introduction to variables and Expressions* |
-|  3 |  Tue, Jan 11       | ***Exercise 3**, Variables and Expressions* |
-|  4 |  Thu, Jan 13       | ***Exercise 4**, Reading User's Input* |
-|  5 |  Tue, Jan 18       | ***Exercise 5**, Conditionals* |
-|  6 |  Thu, Jan 20       | ***Exercise 6**, Conditionals Continue* |
-|  7 |  Tue, Jan 25       | ***Exercise 7**, Logical Expressions* |
-|  - |  Thu, Jan 27       | **No Class - College Closed** |
-|  8 |  Tue, Feb 1        | ***Exercise 8**, Logical Expressions Continue* |
-|  9 |  Thu, Feb 3        | ***Exercise 9**, Looping Statements (Iterations)* |
-| 10 |  Tue, Feb 8        | ***Exercise 10**, Looping Statements Continue* |
-| 11 |  Thu, Feb 10       |***Group Exercise 1**, Midterm Exam Review & First Group Activity* |
-| 12 |  Tue, Feb 15       | **Midterm Exam**
-| 13 |  Thu, Feb 17       | ***Exercise 11**, Conditionals & Loops* |
-| 14 |  Tue, Feb 22       | ***Exercise 12**, Methods and Parameters* |
-| 15 |  Thu, Feb 24       | ***Exercise 13]**, Methods and Parameters Continue* |
-| 16 |  Tue, Mar 1        | ***Exercise 14**, Mathods, Parameters, & Return Values* |
-| 17 |  Thu, Mar 3        | ***Exercise 15**, Introduction to Arrays* |
-| 18 |  Tue, Mar 8        | ***Exercise 16]**, Arrays & Random Numbers* |
-| 19 |  Thu, Mar 10       | ***Exercise 17**, Arrays Continue* |
-| 20 |  Tue, Mar 15       | ***Group Exercise 2**, Final Exam Review and Group Exercise 2* |
-| 21 |  Thu, Mar 17       |**Final Exam** |
+|  1 |  Tue, Jan 4        | ***Exercise 1**, Course Orientation and Introduction*            |
+|  2 |  Thu, Jan 6        | ***Exercise 2**, Introduction to variables and Expressions*      |
+|  3 |  Tue, Jan 11       | ***Exercise 3**, Variables and Expressions*                      |
+|  4 |  Thu, Jan 13       | ***Exercise 4**, Reading User's Input*                           |
+|  5 |  Tue, Jan 18       | ***Exercise 5**, Conditionals*                                   |
+|  6 |  Thu, Jan 20       | ***Exercise 6**, Conditionals Continue*                          |
+|  7 |  Tue, Jan 25       | ***Exercise 7**, Logical Expressions*                            |
+|  - |  Thu, Jan 27       | **No Class - College Closed**                                    |
+|  8 |  Tue, Feb 1        | ***Exercise 8**, Logical Expressions Continue*                   |
+|  9 |  Thu, Feb 3        | ***Exercise 9**, Looping Statements (Iterations)*                |
+| 10 |  Tue, Feb 8        | ***Exercise 10**, Looping Statements Continue*                   |
+| 11 |  Thu, Feb 10       |***Group Exercise 1**, Midterm Exam Review & First Group Activity*|
+| 12 |  Tue, Feb 15       | **Midterm Exam**                                                 |
+| 13 |  Thu, Feb 17       | ***Exercise 11**, Conditionals & Loops*                          |
+| 14 |  Tue, Feb 22       | ***Exercise 12**, Methods and Parameters*                        |
+| 15 |  Thu, Feb 24       | ***Exercise 13]**, Methods and Parameters Continue*              |
+| 16 |  Tue, Mar 1        | ***Exercise 14**, Mathods, Parameters, & Return Values*          |
+| 17 |  Thu, Mar 3        | ***Exercise 15**, Introduction to Arrays*                        |
+| 18 |  Tue, Mar 8        | ***Exercise 16]**, Arrays & Random Numbers*                      |
+| 19 |  Thu, Mar 10       | ***Exercise 17**, Arrays Continue*                               |
+| 20 |  Tue, Mar 15       | ***Group Exercise 2**, Final Exam Review and Group Exercise 2*   |
+| 21 |  Thu, Mar 17       |**Final Exam**                                                    |
 ---
 *Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
