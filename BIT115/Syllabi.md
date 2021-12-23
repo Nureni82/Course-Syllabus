@@ -13,7 +13,7 @@
 ## Course Description
 This introductory programming class emphasizes problem solving through exploration of 
 computer programming, variable typing and assignment, basic control structures loops, 
-branches,  functions,  subprograms,  and  arrays  using  a  language  such  as  Java.  Students  also explore how human culture affects the use of computer programs.    .
+branches,  functions,  subprograms,  and  arrays  using  a  language  such  as  Java.  Students  also explore how human culture affects the use of computer programs.    
 
 ## Prerequisites:  
 Completion of MATH 085 or MFUND 062 with a grade of 2.0 or higher or placement by testing 
@@ -145,7 +145,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 **Course Dates:** January 3 – March 18, 2022 
 
-**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm (18 class sessions)
+**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
