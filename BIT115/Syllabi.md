@@ -68,5 +68,5 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![Grading criteria](./Logos/GradingCriteria.png "The Grading Criteria")
+![](images/GradingCriteria.png )
 
