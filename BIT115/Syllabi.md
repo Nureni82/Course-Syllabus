@@ -1,5 +1,5 @@
 ---
-image: /assets/images/Grading.png
+image: /assets/images/Grading.PNG
 ---
 
 # BIT 115: Introduction to Programming Syllabus
@@ -71,5 +71,5 @@ participation also include 2 group activities. You will work in groups to comple
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![](/assets/images/Grading.png)
+![](/assets/images/Grading.PNG)
 
