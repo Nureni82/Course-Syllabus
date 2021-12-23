@@ -57,17 +57,16 @@ Student grades will be determined by the student’s performance on:
       <TD><strong>100%</strong></TD>
    </TR>
 </TABLE>
+<br>
 
-
-1. **Assignments** – There will be 4 programming assignments to test student's ability to write programs in Java each equally weighted.
-2. **Exercises** – There will be different kind of exercises to test student’s understanding of the class materials and Java programming concepts on a lecture basis. There will be about 19 to 20 exercises in total. The exercise’s types include code tracing, finding, and fixing  errors, arranging blocks of scramble code (Parson’s problems), writing, analysis, and synthesis of Java programs. 
-3. **Exams** – There will be two exams (midterm and final), each equally weighted. Exams are worth 20% of your grade.
-4. **Class Participation** – There will be 9 weeklyd iscussion forums where students will be asked to comment or ask questions about what they read from assigned learning materials. Class 
+1. **Assignments** – There are 4 programming assignments to test student's ability to write programs in Java each equally weighted.
+2. **Exercises** – There are different kind of exercises to test student’s understanding of the class materials and Java programming concepts on a lecture basis. There are about 19 to 20 exercises in total. The exercise’s types include code tracing, finding and fixing  errors, arranging blocks of scramble code (Parson’s problems), writing, analysis, and synthesis of Java programs. 
+3. **Exams** – There are two exams (midterm and final), each equally weighted. 
+4. **Class Participation** – There are 9 weekly discussion forums where students will be asked to comment or ask questions about what they read from assigned learning materials. Class 
 participation also include 2 group activities. You will work in groups to complete some programming exercises. 
 
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-<p align="left">
-      <img src="./Logos/GradingCriteria.png" >
-</p>
+![Grading criteria](./Logos/GradingCriteria.png "The Grading Criteria")
+
