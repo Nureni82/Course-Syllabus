@@ -66,12 +66,12 @@ Student grades will be determined by the student’s performance on:
 4. **Class Participation** – There are 9 weekly discussion forums where students will be asked to comment or ask questions about what they read from assigned learning materials. Class 
 participation also include 2 group activities. You will work in groups to complete some programming exercises. 
 
-**Assignments** *can be resubmitted ***once*** for a regrade. Any regraded assignment can only get back 50% of the lost points*
+**Assignments** *can be resubmitted ***once*** for a regrade. You can only get 50% of the lost points for any regraded assignments*
 
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
-![](assets/images/GradingCriteria.PNG)
+![](/assets/images/GradingCriteria.PNG)
 
 ## Learning Outcomes
 I. **Learn Actively** - *Learning is a personal, interactive process that results in greater expertise and a more comprehensive understanding of the world.*
@@ -125,7 +125,7 @@ Please remember to respect the following list for me and the students in the cla
 If you decide to drop, it is your responsibility to turn in a withdrawal to Enrollment Services. Do not assume that you will be dropped automatically. Please see the instructional calendar on the college website.
 
 ## Missed/Late Work
-**To encourage you to work regularly, late exercises, assignments, discussion posts, and group activities will automatically lose 5% per day, and up to 25% reduction in their total points.**If you miss a graded activity due to a genuine absence, you must contact the instructor during the first-class period of your return to arrange to complete the work and have it graded. Do not expect the instructor to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
+**To encourage you to work regularly, late exercises, assignments, discussion posts, and group activities will automatically lose 5% per day, and up to 25% reduction in their total points.** If you miss a graded activity due to a genuine absence, you must contact the instructor during the first-class period of your return to arrange to complete the work and have it graded. Do not expect the instructor to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
 
 ## Academic Honesty
 Cascadia College regards acts of academic dishonesty, including such activities as plagiarism, cheating and/or violations of integrity in information technology, as very serious offenses.  Academic honesty violations include, but are not limited to, copying homework, quiz and/or exam problems, and placing your name on a group project when you did not actively participate. If cheating, plagiarism, or other forms of academic honesty violations are discovered in student’s work, that exercise/lab/assignment will be awarded a zero grade. If the trends continue in more than three graded assignments, the student will be awarded a 0.0 as the final grade for the class.
