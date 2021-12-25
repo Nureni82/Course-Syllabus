@@ -68,7 +68,6 @@ Student grades will be determined by the student’s performance on:
 participation also include 2 group activities. You will work in groups to complete some programming exercises. 
 
 **Assignments** *can be resubmitted **once** for a regrade. You can only get 50% of the lost points for any regraded assignments*
-
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales

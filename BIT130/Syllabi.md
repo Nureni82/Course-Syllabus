@@ -67,7 +67,6 @@ Student grades will be determined by the student’s performance on:
    </TR>
 </TABLE>
 <br>
-
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
