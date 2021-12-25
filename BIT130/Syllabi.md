@@ -163,20 +163,20 @@ As mandated by the state of Washington and the Cascadia college, students must c
 |  5 |  Tue, Jan 18       | <p align="left">***Lab 4**, Implementing Server Storage*</p>                             |
 |  6 |  Thu, Jan 20       | <p align="left">***Lab 5**, Implementing Data Deduplication*</p>                          |
 |  7 |  Tue, Jan 25       | <p align="left">***Lab 6**, Creating, Managing, and Maintaining Images for Deployment*</p>                      |
-|  - |  Thu, Jan 27       |<p align="left"> **No Class - College Closed**</p>                                    |
-|  8 |  Tue, Feb 1        | <p align="left">***Lab 7**, Installing and Configuring Hyper-V*</p>                   |
-|  9 |  Thu, Feb 3        | <p align="left">***Lab 8**, Configuring Virtual Machine (VM) Settings*</p>                |
-| 10 |  Tue, Feb 8        | <p align="left">***Lab 9**, Configuring Hyper-V Storage*</p>                   |
-| 11 |  Thu, Feb 10       |<p align="left">***Lab 10**, Configuring Hyper-V Networking*</p> |
-| 12 |  Tue, Feb 15       | <p align="left">***Lab 11**, Installing and Configuring the Windows Nano Server*< p> |
-| 13 |  Thu, Feb 17       | <p align="left">***Lab 12**, Deploying and Managing Windows Containers*</p>                          |
-| 14 |  Tue, Feb 22       | <p align="left">***Lab 13**, Implementing Failover Clustering*</p>                        |
-| 15 |  Thu, Feb 24       | <p align="left">***Lab 14**, Managing Failover Clustering*</p>              |
-| 16 |  Tue, Mar 1        |<p align="left"> ***Lab 15**, Implementing High Availability and Disaster Recovery Options in Hyper-V*</p>          |
-| 17 |  Thu, Mar 3        | <p align="left">***Lab 16**, Implementing Storage Spaces Direct*</p>                        |
-| 18 |  Tue, Mar 8        | <p align="left">***Lab 17**, Implementing Network Load Balancing (NLB)* </p>                     |
-| 19 |  Thu, Mar 10       | <p align="left">***Lab 18**, Maintaining Server Installations*</p>                               |
-| 20 |  Tue, Mar 15       | <p align="left">***Lab 19**, Monitoring Server Installations*</p>   |
-| 21 |  Thu, Mar 17       |<p align="left">**Final project**</p>                                                 |
+|  - |  Thu, Jan 27          |<p align="left"> **No Class - College Closed**</p>                                    |
+|  8 |  Tue, Feb 1           | <p align="left">***Lab 7**, Installing and Configuring Hyper-V*</p>                   |
+|  9 |  Thu, Feb 3           | <p align="left">***Lab 8**, Configuring Virtual Machine (VM) Settings*</p>                |
+| 10 |  Tue, Feb 8           | <p align="left">***Lab 9**, Configuring Hyper-V Storage*</p>                   |
+| 11 |  Thu, Feb 10          |<p align="left">***Lab 10**, Configuring Hyper-V Networking*</p> |
+| 12 |  Tue, Feb 15          | <p align="left">***Lab 11**, Installing and Configuring the Windows Nano Server*< p> |
+| 13 |  Thu, Feb 17          | <p align="left">***Lab 12**, Deploying and Managing Windows Containers*</p>                          |
+| 14 |  Tue, Feb 22          | <p align="left">***Lab 13**, Implementing Failover Clustering*</p>                        |
+| 15 |  Thu, Feb 24          | <p align="left">***Lab 14**, Managing Failover Clustering*</p>              |
+| 16 |  Tue, Mar 1           |<p align="left"> ***Lab 15**, Implementing High Availability and Disaster Recovery Options in Hyper-V*</p>          |
+| 17 |  Thu, Mar 3           | <p align="left">***Lab 16**, Implementing Storage Spaces Direct*</p>                        |
+| 18 |  Tue, Mar 8           | <p align="left">***Lab 17**, Implementing Network Load Balancing (NLB)* </p>                     |
+| 19 |  Thu, Mar 10          | <p align="left">***Lab 18**, Maintaining Server Installations*</p>                               |
+| 20 |  Tue, Mar 15          | <p align="left">***Lab 19**, Monitoring Server Installations*</p>   |
+| 21 |  Thu, Mar 17          |<p align="left">**Final project**</p>                                                 |
 ---
 *The due dates for the labs, quizzes, exams, and projects are available on the Learning Management System(Canvas)*
