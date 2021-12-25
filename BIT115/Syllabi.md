@@ -8,7 +8,8 @@
 **Course Delievery**: In-person  
 **Learning Materials**: All the learning materials, including exercises and assignments, have been arranged on a lecture basis on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
-**How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*    
+**How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
+**Office Hours**: Tuesday/Thursday (2 -3 pm) – *See the Zoom details on Canvas*
 
 ## Course Description
 This introductory programming class emphasizes problem solving through exploration of 
@@ -144,7 +145,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 **Course Dates:** January 3 – March 18, 2022 
 
-**Class Times:** Tuesday, Thursday at 3:30pm–5:35pm 
+**Class Times:** Tuesday, Thursday at 3:30pm – 5:35pm 
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
@@ -171,4 +172,4 @@ As mandated by the state of Washington and the Cascadia college, students must c
 | 20 |  Tue, Mar 15       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Exercise 2*</p>   |
 | 21 |  Thu, Mar 17       |<p align="left">**Final Exam**</p>                                                 |
 ---
-*Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management Systement (Canvas)*
+*Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management System(Canvas)*

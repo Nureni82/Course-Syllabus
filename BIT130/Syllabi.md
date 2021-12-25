@@ -8,7 +8,7 @@
 **Learning Materials**: All the learning materials, including Labs and assignments, have been arranged on a lecture basis on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
-**Office Hours**:  Tuesday/Thursday, 1:15-2:00pm (Remote) – See the Zoom details on Canvas 
+**Office Hours**:  Tuesday/Thursday, 1:15 - 2:00pm (Remote) – *See the Zoom details on Canvas*
 
 ## Course Description
 The role of a network administrator is to manage the overall integrity of the network. This course prepares 
