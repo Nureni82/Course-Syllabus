@@ -23,13 +23,7 @@ Co-enrollment with or completion of BIT 102 with a grade of 2.0 or higher, or in
 
 ## Workplace Context
 *How will the outcomes from this class be used in the workplace?*   
-*Scenario*:  A small company, RexusWare, has several servers that all include important data that changes 
-often. Unfortunately, when Julie tries to back up these servers, it takes about 30 hours to complete. What 
-would Julie recommend to her team manager as a backup strategy? It is recommended that some type of 
-backup is performed at least once daily since the data is important and changes often. A full back up 
-should be scheduled for the weekends and differential or incremental backups performed daily (e.g., at 
-midnight). Alternatively, the programs themselves might be isolated and their data backed up each night 
-while a full backup of everything on the servers could be scheduled to run over the weekend.
+*Scenario*:  A small company, RexusWare, has several servers that all include important data that changes often. Unfortunately, when Julie tries to back up these servers, it takes about 30 hours to complete. What would Julie recommend to her team manager as a backup strategy? It is recommended that some type of backup is performed at least once daily since the data is important and changes often. A full back up should be scheduled for the weekends and differential or incremental backups performed daily (e.g., at midnight). Alternatively, the programs themselves might be isolated and their data backed up each night while a full backup of everything on the servers could be scheduled to run over the weekend.
 
 ## Required Textbook
 * **Title**: 70-740 Installation, Storage, & Compute with Windows Server 2016
