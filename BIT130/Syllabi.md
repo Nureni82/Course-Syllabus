@@ -18,7 +18,7 @@ infrastructures. Key topics include server installation techniques, server roles
 management, and server maintenance. This course is geared toward the Microsoft Installing and Configuring 
 Windows Server industry certification.
 
-## Prerequisites:  
+## Prerequisites
 Co-enrollment with or completion of BIT 102 with a grade of 2.0 or higher, or instructor permission.
 
 ## Workplace Context

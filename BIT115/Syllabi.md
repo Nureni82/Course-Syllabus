@@ -16,7 +16,7 @@ This introductory programming class emphasizes problem solving through explorati
 computer programming, variable typing and assignment, basic control structures loops, 
 branches,  functions,  subprograms,  and  arrays  using  a  language  such  as  Java.  Students  also explore how human culture affects the use of computer programs.    .
 
-## Prerequisites:  
+## Prerequisites  
 Completion of MATH 085 or MFUND 062 with a grade of 2.0 or higher or placement by testing 
 into MATH 095 or above.
 
