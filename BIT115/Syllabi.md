@@ -35,8 +35,8 @@ into MATH 095 or above.
 Student grades will be determined by the student’s performance on:  
 <TABLE>
 <TR>
-      <TH>Group</TH>
-      <TH>Weight</TH>
+      <TH>Assessment Group</TH>
+      <TH>Percentage</TH>
    </TR>
    <TR>
       <TD>Assignments</TD>
