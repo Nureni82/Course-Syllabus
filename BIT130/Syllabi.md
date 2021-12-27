@@ -132,8 +132,7 @@ Please remember to respect the following list for me and the students in the cla
 ## Withdrawals
 If you decide to drop, it is your responsibility to turn in a withdrawal to Enrollment Services. Do not assume that you will be dropped automatically. Please see the instructional calendar on the college website.
 
-## Late Assignments Policy
-**Quizzes are locked at the due date. If you miss a quiz it cannot be re-opened since the quiz answers are published once locked.**
+## Late Assignments Policy: **Quizzes are locked at the due date. If you miss a quiz it cannot be re-opened since the quiz answers are published once locked.**
 
 Each student receives two 48-hour *late work* tokens that can be used only on labs, throughout the quarter. After you have used your tokens, **any late Labs, will automatically lose 5% per day, and up to 25% reduction in their total points.** If you miss a graded activity due to a genuine absence, you must contact me during the first-class period of your return to arrange to complete the work and have it graded. Do not expect me to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
 
