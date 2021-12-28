@@ -137,7 +137,7 @@ A formal complaint with detailed description of all such academic dishonesty inc
 If you cannot join the class because of any adverse weather conditions, power outages, or internet issues, you should contact me as soon as possible. Likewise, if I will not be able to join the class for any reason, I will notify you of any cancellation or change as soon as possible. If you cannot join the class due to inclement weather, power outage/internet issues, I will make exception relative to the class attendance requirement, and postpone any scheduled tests, exercises, assignments, and other assessments to a later date.
 
 ## COVID-19 Related Protocols and Pivot Plans
-Cascadia College is a vaccinated community as mandated by Washington State Government. Although the instruction delivery modality for this class is *mostly* synchronous (Zoom), it is important that the instructor is informed about any sick student (especially if it is COVID), so that exceptions can be made relative to any scheduled assignments. Cascadia College COVID-19 policies and resources are available here. Please check the link for regular updates on COVID-19.ments.
+Cascadia College is a vaccinated community as mandated by Washington State Government. Although the instruction delivery modality for this class is *mostly* synchronous (Zoom), it is important that the instructor is informed about any sick student (especially if it is COVID), so that exceptions can be made relative to any scheduled assignments. Cascadia College COVID-19 policies and resources are available [here](https://www.cascadia.edu/services/emergency/coronavirus.aspx). Please check the link for regular updates on COVID-19.
 
 ---
 
