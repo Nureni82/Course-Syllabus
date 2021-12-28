@@ -150,7 +150,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 
 ---
 
-### Course Schedule for Winter Quarter 2022
+## Course Schedule for Winter Quarter 2022
 
 **Course Dates:** January 3 – March 18, 2022 
 
