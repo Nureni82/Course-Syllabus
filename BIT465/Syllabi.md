@@ -101,7 +101,7 @@ IV. **Interact in Diverse and Complex Environments** - *Successful negotiation t
 * Engage in leadership roles and responsibilities within the group process
 
 
-## Objectives:
+## Objectives
 * Personal System setup, including text editor, source code control tools, and testing tools
 * Backend systems, using Platform-as-a-Service (PaaS) services such as Amazon Web Service’s Elastic Beanstalk, or Microsoft’s Azure Web Application hosting
 * REST API basics, including code to handle HTTP requests and JSON/XML encoding/decoding
@@ -145,13 +145,13 @@ Cascadia College is a vaccinated community as mandated by Washington State Gover
 
 **Course Dates:** January 3 – March 18, 2022 
 
-**Class Times:** Tuesday, Thursday at 10:30am–1:00pm 
+**Class Times:** Wednesdays at 4:45 – 7:50pm 
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
 |  1 |  Wed, Jan 5        | <p align="left">**Class Introduction & Introduction to RESTful API**</p>           |
 |  2 |  Wed, Jan 12        | <p align="left">**Getting Started with AWS Gateway and HTTP Service**</p>        |
-|  3 |  Wed, Jan 19       | <p align="left">***DynamoDB and Lambda Function** </p>                     |
+|  3 |  Wed, Jan 19       | <p align="left">**DynamoDB and Lambda Function** </p>                     |
 |  4 |  Wed, Jan 26       |<p align="left"> **API Gateway to Lambda** </p>                          |
 |  5 |  Wed, Feb 2       | <p align="left">**Client SDK from Swagger**</p>                             |
 |  6 |  Wed, Feb 9       | <p align="left">**Developing RESTful API with Django**</p>                          |
