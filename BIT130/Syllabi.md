@@ -1,4 +1,4 @@
-# BIT 130: Server Administration
+# BIT 130: Server Administration Syllabus
   ***BIT 130/Section 01 /5 Credits/Winter 2022***
 
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
