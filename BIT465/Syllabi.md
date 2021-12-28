@@ -5,7 +5,7 @@
 
 ## Course Information
 **Course Delievery**: Hybrid    
-**Learning Materials**: All the learning materials, including Labs and assignments, have been arranged on a lecture basis on Canvas(***cascadia.instructure.com***)   
+**Learning Materials**: All the learning materials, including exercises and assignments, have been arranged on a lecture basis on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
 **Office Hours**:  Wednesdays, 3 - 4pm (Remote) – *See the Zoom details on Canvas*
