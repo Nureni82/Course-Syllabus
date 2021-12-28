@@ -26,6 +26,7 @@ Admission to the BAS-IT program, AND Completion of BIT 340, BIT 372, and BIT 382
 * **Publisher**: Packt Publishing Limited; 1Ed (October 2016)
 * **Language**: English
 * **ISBN-13**: 978-1-78646-225-1      
+
 **Additional Material:** *Many other carefully sourced online materials/class notes*
 
 ## Student Assessment
