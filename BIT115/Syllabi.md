@@ -67,7 +67,7 @@ Student grades will be determined by the student’s performance on:
 4. **Class Participation** – There are 9 weekly discussion forums where students will be asked to comment or ask questions about what they read from assigned learning materials. Class 
 participation also include 2 group activities. You will work in groups to complete some programming exercises. 
 
-**Assignments** *can be resubmitted **once** for a regrade. Only 50% of the lost points for any regraded assignments can be recouped*
+**Assignments** *can be resubmitted **once** for a regrade. Only 50% of the lost points for any regraded assignments can be recouped*. 
 *The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.*
 
 ## Grading Criteria/Standards Scales
