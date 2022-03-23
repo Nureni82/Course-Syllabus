@@ -6,9 +6,9 @@
 
 ## Course Information
 **Course Delievery**: In-person  
-**Day of the week**:  Monday/Wednesday
-**Venue**:            CC1-211
-**Time**:             11:00am - 1:05pm
+**Day of the week**:  Monday/Wednesday   
+**Venue**:            CC1-211   
+**Time**:             11:00am - 1:05pm   
 **Learning Materials**: All the learning materials, including exercises and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
