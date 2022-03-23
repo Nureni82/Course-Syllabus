@@ -157,7 +157,6 @@ As mandated by the state of Washington and the Cascadia college, students must c
 |  6 |  Wed, Apr 13        | <p align="left">***Exercise 6**, Conditionals Continue*</p>                          |
 |  7 |  Mon, Apr 18       | <p align="left">***Exercise 7**, Logical Expressions*</p>                      |
 |  8 |  Wed, Apr 20        | <p align="left">***Exercise 8**, Logical Expressions Continue*</p>                   |
-
 |  9 |  Mon, Apr 25        | <p align="left">***Exercise 9**, Looping Statements (Iterations)*</p>                |
 | 10 |  Wed, Apr 27       | <p align="left">***Exercise 10**, Looping Statements Continue*</p>                   |
 | 11 |  Mon, May 2      |<p align="left">***Group Exercise 1**, Midterm Exam Review & First Group Activity*</p> |
@@ -169,7 +168,7 @@ As mandated by the state of Washington and the Cascadia college, students must c
 | 16 |  Mon, May 23       |<p align="left"> ***Exercise 14**, Mathods, Parameters, & Return Values*</p>          |
 | 17 |  Wed, May 25         | <p align="left">***Exercise 15**, Introduction to Arrays*</p>                        |
 | 18 |  Mon, May 30         | <p align="left">***Exercise 16**, Arrays & Random Numbers* </p>                     |
-|  - |  Wed, Jun 1      |<p align="left"> **Memorial Holiday - College Closed**</p>       
+|  - |  Wed, Jun 1      |<p align="left"> **Memorial Holiday - College Closed**</p>                               |
 | 19 |  Mon, Jun 6       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Exercise 2*</p>   |
 | 20 |  Wed, Jun 8       |<p align="left">**Final Exam**</p>                                                 |
 ---
