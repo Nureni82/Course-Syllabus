@@ -4,10 +4,10 @@
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
-**Course Delievery**: In-person  
-**Day of the week**:  Tuesday/Thursday   
-**Venue**: CC2-180
-**Time**: 8:05- 10:30am
+**Course Delievery**: In-person      
+**Day of the week**:  Tuesday/Thursday        
+**Venue**: CC2-180       
+**Time**: 8:05- 10:30am       
 **Learning Materials**: All the learning materials, including Labs and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
