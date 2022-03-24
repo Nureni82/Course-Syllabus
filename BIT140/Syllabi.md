@@ -99,20 +99,20 @@ IV. **Interact in Diverse and Complex Environments** - *Successful negotiation t
 * Practice civility, empathy, honesty, and responsibility.
 
 ## Objectives:
-*Active Directory implementation
-*Active Directory Domain Services
-*Active Directory Roles
-*Active Directory sites
-*Global catalog and flexible single master operation roles
-*Administration of objects, schemas, and components
-*Security planning
-*Group Policy management
-*User environment configuration
-*Software deployment
-*Group Policy implementation strategies
-*Maintenance, troubleshooting and disaster recovery.
-*Name resolution zones with additional services
-*Active Directory certificate services
+* Active Directory implementation
+* Active Directory Domain Services
+* Active Directory Roles
+* Active Directory sites
+* Global catalog and flexible single master operation roles
+* Administration of objects, schemas, and components
+* Security planning
+* Group Policy management
+* User environment configuration
+* Software deployment
+* Group Policy implementation strategies
+* Maintenance, troubleshooting and disaster recovery.
+* Name resolution zones with additional services
+* Active Directory certificate services
 
 ## Classroom Conduct
 Following these simple guidelines will help me to offer an enjoyable teaching environment for you. You are expected to join class prepared and on time. Joining late and/or unprepared is disrespectful and disruptive both to me and the other students in class. If you must join late, mute your speaker before joining the class. If you have any personal concerns, please feel free to talk to me at the end of class. The official Standards of Student Conduct policy is available in the student handbook.   
@@ -171,9 +171,9 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 | 15 |  Thu, May 19          | <p align="left">***Lab 13**, Installing and Configuring AD FS*</p>                        |
 | 16 |  Tue, May 24          | <p align="left">***Lab 14**, Implementing Web Application Proxy (WAP)*</p>              |
 | 17 |  Thu, May 26           |<p align="left"> ***Lab 15**,  Installing and Configuring AD RMS*</p>          |
-| 18 |  Tue, May 31           | <p align="left">***Final Exam Review**</p>                        |
-| 19 |  Thu, Jun 2         | <p align="left">***Final Exam** </p>                     |
-| 20 |  Tue, Jun 7          | <p align="left">***Final Project**</p>                               |
+| 18 |  Tue, May 31           | <p align="left">**Final Exam Review**</p>                        |
+| 19 |  Thu, Jun 2         | <p align="left">**Final Exam** </p>                     |
+| 20 |  Tue, Jun 7          | <p align="left">**Final Project**</p>                               |
 | 21 |  Thu, Jun 9         | <p align="left">**Final Project**</p>   |
 ---
 *The due dates for the labs, quizzes, exams, and projects are available on the Learning Management System(Canvas)*
