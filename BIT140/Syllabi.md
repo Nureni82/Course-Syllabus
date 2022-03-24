@@ -24,14 +24,14 @@ Completion of BIT 130 with a grade of 2.0 or higher.
 *Scenario*:  A growing company, PlexusWare has ten sites throughout the country and five major departments. Hiran's manager has asked him to design 
 the Active Directory structure. How might this look? Hiran might consider using one domain with two different approaches (depending on management  needs). One approach is to have five OUs for each department with OUs for sites inside each department or to have an OU for each department with OUs for each site in the department OUs.
 
-## Required Textbook
+ ## Required Textbook
 * **Title**: 70-742 Identity with Windows Server 2016
 * **Authors**: Microsoft Official Academic Course
 * **Publisher**: John Wiley & Sons, Inc.; 17Ed (2017)
 * **Language**: English
 * **ISBN-13**: 9781119365198
 
-## Recommended Textbook
+ ## Recommended Textbook
 * **Title**: 70-742 Identity with Windows Server 2016 Lab Manual
 * **Authors**: Microsoft Official Academic Course
 * **Publisher**: John Wiley & Sons, Inc. Edition: 1st, 2017   
