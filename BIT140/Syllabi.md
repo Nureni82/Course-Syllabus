@@ -67,7 +67,8 @@ Student grades will be determined by the student’s performance on:
    </TR>
 </TABLE>
 <br>
-_The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice_.
+
+*The number of assessments and the points possible for exams, assignments and other activities are subject to change without notice.
 
 ## Grading Criteria/Standards Scales
 <img src="https://github.com/Nureni82/Course-Syllabus/raw/main/assets/images/GradingCriteria.PNG">
