@@ -24,7 +24,7 @@ Co-enrollment with or completion of BIT 158 with grades of at least 2.0 or instr
 *How will the outcomes from this class be used in the workplace?* *Scenario*: Roen is asked to create a database for a company that wishes to track client's name, address, purchase orders, and account status. In addition, the company wishes to create a database to hold their existing product catalog. The data need to be related to each other so that information like a purchasing order can be cross-referenced with the product catalog. 
 Roen meets with clients, to ascertain their needs, scope the project, and creates a preliminary data layout and database prototype for their review. Roen then incorporates their feedback into a final database design in preparation for implementing the solution.
 
-## Objectives:
+## Course Content, Topic, and Themes:
 * Articulate the basic concepts of relational database theory, database design and organization.
 * Gather data to effectively identify database requirements and define a scope of work.
 * Analyze a given set of requirements for a database design project and define objectives.
