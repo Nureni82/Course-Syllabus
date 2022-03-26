@@ -1,4 +1,4 @@
-# BIT 140: Database Design Syllabus
+# BIT 275: Database Design Syllabus
   ***BIT 275/Section 01 /5 Credits/Spring 2022***
 
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
