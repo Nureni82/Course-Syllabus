@@ -61,6 +61,10 @@ Student grades will be determined by the student’s performance on:
       <TH>Coursework</TH>
       <TH>Percentage</TH>
    </TR>
+ <TR>
+      <TD>Forum</TD>
+      <TD>8%</TD>
+   </TR>
    <TR>
       <TD>Exercises</TD>
       <TD>25%</TD>
@@ -71,7 +75,7 @@ Student grades will be determined by the student’s performance on:
    </TR>
    <TR>
       <TD>Quizzes</TD>
-      <TD>10%</TD>
+      <TD>12%</TD>
    </TR>
    <TR>
       <TD>Exams(2 @ 10%)</TD>
