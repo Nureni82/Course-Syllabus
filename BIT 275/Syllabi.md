@@ -52,7 +52,7 @@ Roen meets with clients, to ascertain their needs, scope the project, and create
 * **ISBN-13**: 9781943872572
 
 [If you do not want to buy the hardcopy, the ebook is available for free **here**](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71190039720001451&vid=UW&search_scope=all&tab=default_tab&lang=en_US&context=L) with your UW NET ID. 
-[LinkedIn Learning Resources (Formerly Lynda.com Training Libraries, see **kcls**](https://www.linkedin.com/learning-login/go/kcls) [or **sno-isle**](https://www.linkedin.com/learning-login/go/snoislelibraries) and be sure to have a KCLS library card or SNO-ISLE Library)]
+[LinkedIn Learning Resources (Formerly Lynda.com Training Libraries, see **kcls**](https://www.linkedin.com/learning-login/go/kcls) [or **sno-isle**](https://www.linkedin.com/learning-login/go/snoislelibraries) and be sure to have a KCLS library card or SNO-ISLE Library)
 
 ## Student Assessment
 Student grades will be determined by the student’s performance on:  
