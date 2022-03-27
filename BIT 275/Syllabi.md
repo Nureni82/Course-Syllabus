@@ -161,7 +161,7 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 
 **Course Dates:** March 28 – June 10, 2022 
 
-**Class Times:** Tuesday, Thursday at 8:05 – 10:30am
+**Class Times:** Tuesday, Thursday at 1:15 – 3:20am
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
