@@ -142,7 +142,7 @@ If you decide to drop, it is your responsibility to turn in a withdrawal to Enro
 ## Late Assignments Policy:   
 **Quizzes are locked at the due date. If you miss a quiz it cannot be re-opened since the quiz answers are published once locked..**  
 
-Each student receives two 48-hour *late work* tokens that can be used only on exercises, assignments, throughout the quarter. After you have used your tokens, **any late exercises and assignments, will automatically lose 5% per day, and up to 25% reduction in their total points.** If you miss a graded activity due to a genuine absence, you must contact me during the first-class period of your return to arrange to complete the work and have it graded. Please do not expect me to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
+Each student receives two 48-hour *late work* tokens that can be used only on exercises and assignments, throughout the quarter. After you have used your tokens, **any late exercises and assignments, will automatically lose 5% per day, and up to 25% reduction in their total points.** If you miss a graded activity due to a genuine absence, you must contact me during the first-class period of your return to arrange to complete the work and have it graded. Please do not expect me to contact you regarding missed work. Any missed work that remains ungraded at the last day of the semester will receive a zero, regardless of whether the absence was excused.
 
 ## Academic Honesty
 Cascadia College regards acts of academic dishonesty, including such activities as plagiarism, cheating and/or violations of integrity in information technology, as very serious offenses.  Academic honesty violations include, but are not limited to, copying homework, quiz and/or exam problems, and placing your name on a group project when you did not actively participate. If cheating, plagiarism, or other forms of academic honesty violations are discovered in student’s work, that Lab/lab/assignment will be awarded a zero grade. If the trends continue in more than three graded assignments, the student will be awarded a 0.0 as the final grade for the class.
@@ -179,8 +179,8 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 | 11 |  Thu, May 5          | <p align="left">**Midterm Exam**</p>                   |
 | 12 |  Tue, May 10         |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
 | 13 |  Thu, May 12          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*< p> |
-| 14 |  Tue, May 17          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p>                          |
-| 15 |  Thu, May 19          | <p align="left">*** Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
+| 14 |  Tue, May 17          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
+| 15 |  Thu, May 19          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
 | 16 |  Tue, May 24          | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>              |
 | 17 |  Thu, May 26           |<p align="left"> ***Provisioning Tables in DynamoDB Exercise**,  Introduction to AWS and DynamoDB*</p>          |
 | 18 |  Tue, May 31           | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
