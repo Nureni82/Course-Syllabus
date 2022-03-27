@@ -58,8 +58,8 @@ Roen meets with clients, to ascertain their needs, scope the project, and create
 Student grades will be determined by the student’s performance on:  
 <TABLE>
 <TR>
-      <TH>Coursework</TH>
-      <TH>Percentage</TH>
+    <TH>Coursework</TH>
+    <TH>Percentage</TH>
    </TR>
  <TR>
       <TD>Forum</TD>
