@@ -178,7 +178,7 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 | 10 |  Tue, May 3           | <p align="left">***Exercise 8**, DML clauses, DDL clauses, and Midterm Exam Review*</p>                |
 | 11 |  Thu, May 5          | <p align="left">**Midterm Exam**</p>                   |
 | 12 |  Tue, May 10         |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
-| 13 |  Thu, May 12          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*< p> |
+| 13 |  Thu, May 12          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*</p> |
 | 14 |  Tue, May 17          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
 | 15 |  Thu, May 19          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
 | 16 |  Tue, May 24          | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>              |
