@@ -109,7 +109,7 @@ IV. **Interact in Diverse and Complex Environments** - *Successful negotiation t
     * Explore how the culture of the end user affects development
 
 ## Classroom Conduct
-Following these simple guidelines will help me to offer an enjoyable teaching environment for you. You are expected to join class prepared and on time. Joining late and/or unprepared is disrespectful and disruptive both to me and the other students in class. If you must join late, mute your speaker before joining the class. If you have any personal concerns, please feel free to talk to me at the end of class. The official Standards of Student Conduct policy is available in the student handbook.   
+Following these simple guidelines will help me to offer an enjoyable teaching environment for you. You are expected to join class prepared and on time. Joining late and/or unprepared is disrespectful and disruptive both to me and the other students in class. If you have any personal concerns, please feel free to talk to me at the end of class. The official Standards of Student Conduct policy is available in the student handbook.   
 Please remember to respect the following list for me and the students in the class.
 * Please remember to respect other students and your instructor by not using inappropriate language.
 * Please silence your mobile devices such as cell phones.
