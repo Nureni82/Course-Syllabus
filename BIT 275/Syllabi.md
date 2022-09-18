@@ -187,6 +187,6 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 | 19 |  Tues, Dec 6          | <p align="left">**Final Exam**</p>                               |
 | 20 |  Thur, Dec 8          | <p align="left">**Building A complete Database in SQL Server and Writing Advanced Queries**</p>                               |
 | 21 |  Tues, Dec 13         | <p align="left">**Project Presentation**</p>   |
-| 22 |  Tues, Dec 13         | <p align="left">**Final Project Submission**</p>   |
+| 22 |  Thur, Dec 15         | <p align="left">**Final Project Submission**</p>   |
 ---
 *The due dates for the exercises, quizzes, forums, exams, and Assignments(project) are available on the Learning Management System(Canvas)*
