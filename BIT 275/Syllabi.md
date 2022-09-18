@@ -185,7 +185,7 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 | 17 |  Tues, Nov 29           | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
 | 18 |  Thur, Dec 1         | <p align="left">***Exercise 15**, Views and Final Exam Review*</p>                     |
 | 19 |  Tues, Dec 6          | <p align="left">**Final Exam**</p>                               |
-| 20 |  Thur, Dec 8          | <p align="left">**Building A complete Database in SQL Server and Writing Advanced Queries**</p>                               |
+| 20 |  Thur, Dec 8          | <p align="left">*Building A complete Database in SQL Server and Writing Advanced Queries*</p>                               |
 | 21 |  Tues, Dec 13         | <p align="left">**Project Presentation**</p>   |
 | 22 |  Thur, Dec 15         | <p align="left">**Final Project Submission**</p>   |
 ---
