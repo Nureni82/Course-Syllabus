@@ -11,7 +11,7 @@
 **Learning Materials**: All the learning materials, including Labs and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
-**Office Hours**:  Tuesday/Thursday, 5 - 6pm (Remote) – *See the Zoom details on Canvas*
+**Office Hours**:  Friday, 5 - 6pm (Remote) – *See the Zoom details on Canvas*
 
 ## Course Description
 Students learn the basics of the planning and design of databases, the use of the Structured Query Language (SQL), and the use of JSON notation for transmitting data. Students gain hands-on experience by creating and testing a complete data model based on a set of client objectives. Topics of study include information 
