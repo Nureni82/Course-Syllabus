@@ -1,17 +1,17 @@
 # BIT 275: Database Design Syllabus
-  ***BIT 275/Section 01 /5 Credits/Spring 2022***
+  ***BIT 275/Section 02 43765 /5 Credits/Fall 2022***
 
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
 **Course Delievery**: In-person      
 **Day of the week**:  Tuesday/Thursday        
-**Venue**: CC2-180       
-**Time**: 1:15- 3:20pm       
+**Venue**: CC1-231       
+**Time**: 5:45- 7:50pm       
 **Learning Materials**: All the learning materials, including Labs and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
-**Office Hours**:  Tuesday/Thursday, 4 - 5pm (Remote) – *See the Zoom details on Canvas*
+**Office Hours**:  Tuesday/Thursday, 5 - 6pm (Remote) – *See the Zoom details on Canvas*
 
 ## Course Description
 Students learn the basics of the planning and design of databases, the use of the Structured Query Language (SQL), and the use of JSON notation for transmitting data. Students gain hands-on experience by creating and testing a complete data model based on a set of client objectives. Topics of study include information 
@@ -157,35 +157,36 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 
 ---
 
-## Course Schedule for Spring Quarter 2022
+## Course Schedule for Fall Quarter 2022
 
-**Course Dates:** March 28 – June 10, 2022 
+**Course Dates:** September 28 – December 16, 2022 
 
-**Class Times:** Tuesday, Thursday at 1:15 – 3:20am
+**Class Times:** Tuesday, Thursday at 4:45 – 7:50pm
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Tue, Mar 29       | <p align="left">*Course Introduction, Understanding Database terminologies*</p>           |
-|  2 |  Thu, Mar 31       | <p align="left">*Data Models and Database Modelling Process*</p>        |
-|  3 |  Tue, Apr 5       | <p align="left">***Exercise 1**, Understanding Database concepts, SQL Clauses, and Aggregate SQL functions* </p>                     |
-|  4 |  Thu, Apr 7      |<p align="left"> ***Exercise 2**, Understanding More SQL Clauses (DSITINCT, and JOIN)* </p>                          |
-|  5 |  Tue, Apr 12       | <p align="left">***Exercise 3**,Types of tables and Relationship's Types*</p>                             |
-|  6 |  Thu, Apr 14       | <p align="left">***Exercise 4**, SQL Clauses (Aliases, GROUP BY, and HAVING)*</p>                          |
-|  - |  Tue, Apr 19         |<p align="left"> **No Class - College Closed**</p>                                    |
-|  7 |  Thu, Apr 21      | <p align="left">***Exercise 5**, Ideal tables and fields requirements, Relationship’s boundaries*</p>                      |
-|  8 |  Tue, Apr 26           | <p align="left">***Exercise 6**, Subqueries*</p>                   |
-|  9 |  Thu, Apr 28           | <p align="left">***Exercise 7**, Common database design problems, DDL, and foreign key constraints*</p>                |
-| 10 |  Tue, May 3           | <p align="left">***Exercise 8**, DML clauses, DDL clauses, and Midterm Exam Review*</p>                |
-| 11 |  Thu, May 5          | <p align="left">**Midterm Exam**</p>                   |
-| 12 |  Tue, May 10         |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
-| 13 |  Thu, May 12          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*</p> |
-| 14 |  Tue, May 17          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
-| 15 |  Thu, May 19          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
-| 16 |  Tue, May 24          | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>              |
-| 17 |  Thu, May 26           |<p align="left"> ***Provisioning Tables in DynamoDB Exercise**,  Introduction to AWS and DynamoDB*</p>          |
-| 18 |  Tue, May 31           | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
-| 19 |  Thu, Jun 2         | <p align="left">***Exercise 15**, Query Execution Plan and Final Exam Review*</p>                     |
-| 20 |  Tue, Jun 7          | <p align="left">**Final Exam**</p>                               |
-| 21 |  Thu, Jun 9         | <p align="left">**Project Presentation and Submission**</p>   |
+|  1 |  Thur, Sep 29       | <p align="left">*Course Introduction, Understanding Database Terminologies*</p>           |
+|  2 |  Tues, Oct 4       | <p align="left">*Data Models and Database Modelling Process*</p>        |
+|  3 |  Thur, Oct 6       | <p align="left">***Exercise 1**, Understanding Database concepts, SQL Clauses, and Aggregate SQL functions* </p>                     |
+|  4 |  Tues, Oct 11      |<p align="left"> ***Exercise 2**, Understanding More SQL Clauses (DSITINCT, and JOIN)* </p>                          |
+|  5 |  Thur, Oct 13       | <p align="left">***Exercise 3**,Types of tables and Relationship's Types*</p>                             |
+|  6 |  Tues, Oct 18      | <p align="left">***Exercise 4**, SQL Clauses (Aliases, GROUP BY, and HAVING)*</p>                          |
+|  7 |  Thur, Oct 20      | <p align="left">***Exercise 5**, Ideal tables and fields requirements, Relationship’s boundaries*</p>                      |
+|  8 |  Tues, Oct 25           | <p align="left">***Exercise 6**, Subqueries*</p>                   |
+|  9 |  Thur, Oct 27           | <p align="left">***Exercise 7**, Common database design problems, DDL, and foreign key constraints*</p>                |
+| 10 |  Tues, Nov 1           | <p align="left">***Exercise 8**, DML clauses, DDL clauses, and Midterm Exam Review*</p>                |
+| 11 |  Thur, Nov 3          | <p align="left">**Midterm Exam**</p>                   |
+| 12 |  Tues, Nov 8        |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
+| 13 |  Thur, Nov 10          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*</p> |
+| 14 |  Tues, Nov 15          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
+| 15 |  Thur, Nov 17          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
+| 16 |  Tues, Nov 22         | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>        |
+|  - |  Thur, Nov 24         |<p align="left"> **No Class - Thanksgiving Holiday**</p>                                    |
+| 17 |  Tues, Nov 29           | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
+| 18 |  Thur, Dec 1         | <p align="left">***Exercise 15**, Views and Final Exam Review*</p>                     |
+| 19 |  Tues, Dec 6          | <p align="left">**Final Exam**</p>                               |
+| 20 |  Thur, Dec 8          | <p align="left">**Building A complete Database in SQL Server and Writing Advanced Queries**</p>                               |
+| 21 |  Tues, Dec 13         | <p align="left">**Project Presentation**</p>   |
+| 22 |  Tues, Dec 13         | <p align="left">**Final Project Submission*</p>   |
 ---
 *The due dates for the exercises, quizzes, forums, exams, and Assignments(project) are available on the Learning Management System(Canvas)*
