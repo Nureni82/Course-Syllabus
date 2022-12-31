@@ -1,18 +1,18 @@
 
 # BIT 115: Introduction to Programming Syllabus
-  ***BIT 115/Section 01 /5 Credits/Spring 2022***
+  ***BIT 115/Section 02 /5 Credits/Winter 2023***
 
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
 **Course Delievery**: In-person  
-**Day of the week**:  Monday/Wednesday   
-**Venue**:            CC1-211   
-**Time**:             11:00am - 1:05pm   
+**Day of the week**:  Tuesday/Thursday   
+**Venue**:            CC1-231   
+**Time**:             5:45pm - 7:50pm   
 **Learning Materials**: All the learning materials, including exercises and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
 **How to Contact Me**: Canvas Message is the primary way of reaching me. Alternatively, you can contact me using my Cascadia Email address: ***nadeyemo@cascadia.edu***. *I will respond to your messages or emails not later than 48 hours, except weekends and public holidays.*   
-**Office Hours**: Monday/Wednesday (2 -3 pm) – *See the Zoom details on Canvas*
+**Office Hours**: Friday (5 -6 pm)/ By Appointment – *See the Zoom details on Canvas*
 
 ## Course Description
 This introductory programming class emphasizes problem solving through exploration of 
@@ -141,35 +141,35 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 
 ---
 
-## Course Schedule for Spring Quarter 2022
+## Course Schedule for Winter Quarter 2023
 
-**Course Dates:** March 28 – June 10, 2022 
+**Course Dates:** January 3 – March 17, 2023 
 
-**Class Times:** Monday, Wednesday at 11:00am – 1:05pm 
+**Class Times:** Tuesday, Thursday at 5:45pm – 7:50pm 
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Mon, Mar 28        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
-|  2 |  Wed, Mar 30      | <p align="left">***Exercise 2**, Introduction to variables and Expressions*</p>        |
-|  3 |  Mon, Apr 4     | <p align="left">***Exercise 3**, Variables and Expressions* </p>                     |
-|  4 |  Wed, Apr 6        |<p align="left"> ***Exercise 4**, Reading User's Input* </p>                          |
-|  5 |  Mon, Apr 11       | <p align="left">***Exercise 5**, Conditionals*</p>                             |
-|  6 |  Wed, Apr 13        | <p align="left">***Exercise 6**, Conditionals Continue*</p>                          |
-|  7 |  Mon, Apr 18       | <p align="left">***Exercise 7**, Logical Expressions*</p>                      |
-|  8 |  Wed, Apr 20        | <p align="left">***Exercise 8**, Logical Expressions Continue*</p>                   |
-|  9 |  Mon, Apr 25        | <p align="left">***Exercise 9**, Looping Statements (Iterations)*</p>                |
-| 10 |  Wed, Apr 27       | <p align="left">***Exercise 10**, Looping Statements Continue*</p>                   |
-| 11 |  Mon, May 2      |<p align="left">***Group Exercise 1**, Midterm Exam Review & First Group Activity*</p> |
-| 12 |  Wed, May 4      | <p align="left">**Midterm Exam**</p>                                                 |
-| 13 |  Mon, May 9      | <p align="left">***Exercise 11**, Conditionals & Loops*</p>                          |
-|  - |  Wed, May 11       |<p align="left"> **No Class - College Closed**</p>                                    |
-| 14 |  Mon, May 16       | <p align="left">***Exercise 12**, Methods and Parameters*</p>                        |
-| 15 |  Wed, May 18        | <p align="left">***Exercise 13**, Methods and Parameters Continue*</p>              |
-| 16 |  Mon, May 23       |<p align="left"> ***Exercise 14**, Mathods, Parameters, & Return Values*</p>          |
-| 17 |  Wed, May 25         | <p align="left">***Exercise 15**, Introduction to Arrays*</p>                        |
-| 18 |  Mon, May 30         | <p align="left">***Exercise 16**, Arrays & Random Numbers* </p>                     |
-|  - |  Wed, Jun 1      |<p align="left"> **Memorial Holiday - College Closed**</p>                               |
-| 19 |  Mon, Jun 6       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Exercise 2*</p>   |
-| 20 |  Wed, Jun 8       |<p align="left">**Final Exam**</p>                                                 |
+|  1 |  Tue, Jan 3        | <p align="left">***Exercise 1**, Course Orientation and Introduction*</p>           |
+|  2 |  Thu, Jan 5      | <p align="left">***Exercise 2**, Introduction to variables and Expressions*</p>        |
+|  3 |  Tue, Jan 10     | <p align="left">***Exercise 3**, Variables and Expressions* </p>                     |
+|  4 |  Thu, Jan 12        |<p align="left"> ***Exercise 4**, Reading User's Input* </p>                          |
+|  5 |  Tue, Jan 17       | <p align="left">***Exercise 5**, Conditionals*</p>                             |
+|  6 |  Thu, Jan 19        | <p align="left">***Exercise 6**, Conditionals Continue*</p>                          |
+|  7 |  Tue, Jan 24       | <p align="left">***Exercise 7**, Logical Expressions*</p>                      |
+|  - |  Thu, Jan 26       |<p align="left"> **Non-Instructional Day (No Classes/College Closed)**</p>                                    |
+|  8 |  Tue, Jan 31        | <p align="left">***Exercise 8**, Logical Expressions Continued*</p>                   |
+|  9 |  Thu, Feb 2        | <p align="left">***Exercise 9**, Looping Statements (Iterations)*</p>                |
+| 10 |  Tue, Feb 7       | <p align="left">***Exercise 10**, Looping Statements Continued*</p>                   |
+| 11 |  Thu, Feb 9      |<p align="left">***Group Exercise 1**, Midterm Exam Review & Group Programming Exercise 1*</p> |
+| 12 |  Tue, Feb 14      | <p align="left">**Midterm Exam**</p>                                                 |
+| 13 |  Thu, Feb 16      | <p align="left">***Exercise 11**, Conditionals & Loops*</p>                          |
+| 14 |  Tue, Feb 21       | <p align="left">***Exercise 12**, Methods and Parameters*</p>                        |
+| 15 |  Thu, Feb 23        | <p align="left">***Exercise 13**, Methods and Parameters Continued*</p>              |
+| 16 |  Tue, Feb 28       |<p align="left"> ***Exercise 14**, Mathods, Parameters, & Return Values*</p>          |
+| 17 |  Thu, Mar 2         | <p align="left">***Exercise 15**, Introduction to Arrays*</p>                        |
+| 18 |  Tue, Feb 7         | <p align="left">***Exercise 16**, Arrays & Random Numbers* </p>                     |
+| 19 |  Thu, Feb 9      |<p align="left"> ***Exercise 17**, Continuation of Arrays**</p>                               |
+| 20 |  Tue, Feb 14       | <p align="left">***Group Exercise 2**, Final Exam Review and Group Programming Exercise 2*</p>   |
+| 21 |  Thu, Feb 16       |<p align="left">**Final Exam**</p>                                                 |
 ---
 *Please note that some of the exercises are in pairs, created to test your understading of different aspects of the programming concepts. The due dates for the exercises, the assignments, weekly discussions, and group activities are available on the Learning Management System(Canvas)*
