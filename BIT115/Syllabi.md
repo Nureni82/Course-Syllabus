@@ -43,15 +43,15 @@ Student grades will be determined by the student’s performance on:
    </TR>
    <TR>
       <TD>Assignments</TD>
-      <TD>50%</TD>
+      <TD>30%</TD>
    </TR>
    <TR>
       <TD>Exercises</TD>
-      <TD>25%</TD>
+      <TD>15%</TD>
    </TR>
    <TR>
-      <TD>Exams</TD>
-      <TD>20%</TD>
+      <TD>Exams (25% each)</TD>
+      <TD>50%</TD>
    </TR>
    <TR>
       <TD>Class Participation</TD>
