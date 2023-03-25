@@ -1,12 +1,12 @@
 # BIT 275: Database Design Syllabus
-  ***BIT 275/Section 02 43765 /5 Credits/Fall 2022***
+  ***BIT 275/Section 01 2560 /5 Credits/Spring 2023***
 
 [Please *review* the **Cascadia College Syllabus Learning Agreement** for more details about Student Rights and Responsibilities ](https://www.cascadia.edu/programs/sla.aspx)
 
 ## Course Information
 **Course Delievery**: In-person      
 **Day of the week**:  Tuesday/Thursday        
-**Venue**: CC1-231       
+**Venue**: CC1-211      
 **Time**: 5:45- 7:50pm       
 **Learning Materials**: All the learning materials, including Labs and assignments, have been arranged based on due dates on Canvas(***cascadia.instructure.com***)   
 **Instructor Name**: Nureni Adeyemo   
@@ -157,36 +157,36 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 
 ---
 
-## Course Schedule for Fall Quarter 2022
+## Course Schedule for Spring Quarter 2023
 
-**Course Dates:** September 28 – December 16, 2022 
+**Course Dates:** March 27 – June 9, 2023 
 
 **Class Times:** Tuesday, Thursday at 4:45 – 7:50pm
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
-|  1 |  Thur, Sep 29       | <p align="left">*Course Introduction, Understanding Database Terminologies*</p>           |
-|  2 |  Tues, Oct 4       | <p align="left">*Data Models and Database Modelling Process*</p>        |
-|  3 |  Thur, Oct 6       | <p align="left">***Exercise 1**, Understanding Database concepts, SQL Clauses, and Aggregate SQL functions* </p>                     |
-|  4 |  Tues, Oct 11      |<p align="left"> ***Exercise 2**, Understanding More SQL Clauses (DSITINCT, and JOIN)* </p>                          |
-|  5 |  Thur, Oct 13       | <p align="left">***Exercise 3**,Types of tables and Relationship's Types*</p>                             |
-|  6 |  Tues, Oct 18      | <p align="left">***Exercise 4**, SQL Clauses (Aliases, GROUP BY, and HAVING)*</p>                          |
-|  7 |  Thur, Oct 20      | <p align="left">***Exercise 5**, Ideal tables and fields requirements, Relationship’s boundaries*</p>                      |
-|  8 |  Tues, Oct 25           | <p align="left">***Exercise 6**, Subqueries*</p>                   |
-|  9 |  Thur, Oct 27           | <p align="left">***Exercise 7**, Common database design problems, DDL, and foreign key constraints*</p>                |
-| 10 |  Tues, Nov 1           | <p align="left">***Exercise 8**, DML clauses, DDL clauses, and Midterm Exam Review*</p>                |
-| 11 |  Thur, Nov 3          | <p align="left">**Midterm Exam**</p>                   |
-| 12 |  Tues, Nov 8        |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
-| 13 |  Thur, Nov 10          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*</p> |
-| 14 |  Tues, Nov 15          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
-| 15 |  Thur, Nov 17          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
-| 16 |  Tues, Nov 22         | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>        |
-|  - |  Thur, Nov 24         |<p align="left"> **No Class - Thanksgiving Holiday**</p>                                    |
-| 17 |  Tues, Nov 29           | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
-| 18 |  Thur, Dec 1         | <p align="left">***Exercise 15**, Views and Final Exam Review*</p>                     |
-| 19 |  Tues, Dec 6          | <p align="left">**Final Exam**</p>                               |
-| 20 |  Thur, Dec 8          | <p align="left">*Building A complete Database in SQL Server and Writing Advanced Queries*</p>                               |
-| 21 |  Tues, Dec 13         | <p align="left">**Project Presentation**</p>   |
-| 22 |  Thur, Dec 15         | <p align="left">**Final Project Submission**</p>   |
+|  1 |  Tue, Mar 28       | <p align="left">*Course Introduction, Understanding Database Terminologies*</p>           |
+|  2 |  Thu, Mar 30      | <p align="left">*Data Models and Database Modelling Process*</p>        |
+|  3 |  Tue, Apr 4       | <p align="left">***Exercise 1**, Understanding Database concepts, SQL Clauses, and Aggregate SQL functions* </p>                     |
+|  4 |  Thu, Apr 6      |<p align="left"> ***Exercise 2**, Understanding More SQL Clauses (DSITINCT, and JOIN)* </p>                          |
+|  5 |  Tue, Apr 11       | <p align="left">***Exercise 3**,Types of tables and Relationship's Types*</p>                             |
+|  6 |  Thu, Apr 13      | <p align="left">***Exercise 4**, SQL Clauses (Aliases, GROUP BY, and HAVING)*</p>                          |
+|  7 |  Tue, Apr 18      | <p align="left">***Exercise 5**, Ideal tables and fields requirements, Relationship’s boundaries*</p>                      |
+|  - |  Thu, Apr 20         |<p align="left"> **No Class - Non-Instructional Day**</p>                                    |
+|  8 |  Tue, Apr 25           | <p align="left">***Exercise 6**, Subqueries*</p>                   |
+|  9 |  Thu, Apr 27           | <p align="left">***Exercise 7**, Common database design problems, DDL, and foreign key constraints*</p>                |
+| 10 |  Tue, May 2           | <p align="left">***Exercise 8**, DML clauses, DDL clauses, and Midterm Exam Review*</p>                |
+| 11 |  Thu, May 4          | <p align="left">**Midterm Exam**</p>                   |
+| 12 |  Tue, May 9        |<p align="left">***Exercise 9**, Difference between Conceptual and Physical data models/Difference between DDL and DML*</p> |
+| 13 |  Thu, May 11          | <p align="left">***Exercise 10**, MySQL and SQL Server Differences using DML and DDL statements*</p> |
+| 14 |  Tue, May 16          | <p align="left">***Exercise 11**, Exploring DDL Using Physical model and Adding Constraints (CHECK, UNIQUE, NOT NULL)*</p> |
+| 15 |  Thu, May 18          | <p align="left">***Exercise 12**, Testing CONSTRAINTS with Data*</p>                        |
+| 16 |  Tue, May 23         | <p align="left">***Exercise 13**, Creating linking tables in physical model, Understanding foreign key referential actions*</p>        |
+| 17 |  Thu, May 25          | <p align="left">***Exercise 14**, Introduction to Index and Views*</p>                        |
+| 18 |  Tue, May 30         | <p align="left">***Exercise 15**, Views and Final Exam Review*</p>                     |
+| 20 |  Thu, Jun 1          | <p align="left">*Building A complete Database in SQL Server and Writing Advanced Queries*</p>                               |
+| 19 |  Tue, Jun 6          | <p align="left">**Final Exam**</p>                               |
+| 21 |  Thur, Jun 8         | <p align="left">**Project Presentation**</p>   |
+| 22 |  Fri, Jun 9         | <p align="left">**Final Project Submission**</p>   |
 ---
 *The due dates for the exercises, quizzes, forums, exams, and Assignments(project) are available on the Learning Management System(Canvas)*
