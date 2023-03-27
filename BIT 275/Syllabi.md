@@ -161,7 +161,7 @@ Cascadia's students and employees are no longer mandated to wear masks. However,
 
 **Course Dates:** March 27 – June 9, 2023 
 
-**Class Times:** Tuesday, Thursday at 4:45 – 7:50pm
+**Class Times:** Tuesday, Thursday at 5:45 – 7:50pm
 
 | Class |          Date          |<p align="left">  Class Activities & Topics </p>                   |
 |:-----:|:----------------------:|:---------------------------------------------------------:|
